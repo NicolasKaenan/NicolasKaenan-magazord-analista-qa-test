@@ -14,4 +14,4 @@
 ### Ambiente_de_Teste
 > Como eu considerei que o ambiente de teste é o mesmo para todos os casos, este item é unico para todo o documento.
 
-### *SUMARIO.md*
+### [SUMARIO.md](https://github.com/NicolasKaenan/NicolasKaenan-magazord-analista-qa-test/blob/main/Sumario/SUMARIO.md)
