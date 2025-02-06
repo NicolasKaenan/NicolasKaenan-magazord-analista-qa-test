@@ -1,0 +1,6 @@
+# API do Mercado livre
+> O mercado livre tem uma API para integração e automatização das vendas pelos usuários, encontrada [aqui](https://developers.mercadolivre.com.br/pt_br/api-docs-pt-br).
+
+# Realização de testes
+> De acordo com o site oficial do Mercado livre, eles não tem ambiente de teste ou sandbox, mas disponibilizam [usuários de teste](https://developers.mercadolivre.com.br/pt_br/realizacao-de-testes), com a vantagem dita ser "A vantagem de trabalhar com usuários de teste, é que você pode fazer simulações entre esses usuários com as mesmas ações habilitadas para usuários reais: publicar, atualizar dados, perguntar, responder, comprar, vender, opinar, etc., sem pagar nada ou ser sancionado e, evitando prejudicar a reputação de um usuário real.".
+> Cada conta no Mercado livre tem direito a 10 contas ativas, podendo renovar quando uma delas expirar. Os testes tem algumas considerações passadas pelo Mercado livre já que todos itens ofertados são levados aos ambientes de produção do próprio marketplace, e a vantagem é justamente testar a integração diretamente no ambiente de produção, usando usuários sem vinculação com a empresa.
